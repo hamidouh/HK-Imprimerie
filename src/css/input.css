@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Lobster&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+    /* --color-paper: #F6F3EC;
+    --color-paper_dim: #EDE8DC;
+    --color-ink: #191A1E;
+    --color-indigo: #1E3A5F;
+    --color-indigo_deep: #132844;
+    --color-black: #000;
+    --color-magenta_ink: #E6007E; */
+    --color-yellow_ink: #FFC400;
+    --color-principale: #E35A39;
+    --color-secondaire: #0B0B0B;
+    --color-blanc: #FFFFFF;
+    --color-gris_clair: #F9FAFB; /* papper */
+    --color-gris_text: #6B7280;
+    --color-anthracite: #6B7280;
+    --color-noir: #000000;
+    --color-ink: #191A1E;
+}
